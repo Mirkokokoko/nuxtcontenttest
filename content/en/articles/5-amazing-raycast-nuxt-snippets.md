@@ -37,7 +37,7 @@ Using Raycast snippets is straightforward. Once you've created or imported a sni
 
 For instance, if you have a snippet for a standard email sign-off, you can assign a keyword like `sig1`. Typing `sig1` in an email will then automatically expand to the full signature text. This feature is especially useful in coding, where you can have snippets for common code patterns or configurations.
 
-![snippets-exemple](/articles/snippets-exemple.gif)
+![snippets-exemple](/articles/snippets-exemple.gif){:width='2'}
 
 ### Component Template: `!comp`
 
